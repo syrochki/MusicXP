@@ -97,12 +97,12 @@ const questions: Question[] = [
     options: [
       "geses, f",
       "fis, ges",
-      "des, ces",
+      "dis, cisis",
       "do, ceses",
       "cs, 1.6",
       "dis, es",
     ],
-    correct: "geses, f",
+    correct: "dis, cisis",
   },
   {
     type: "solfeggio",
