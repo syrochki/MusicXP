@@ -9,7 +9,7 @@ import XpWindow from "../components/XpWindow.vue";
       <p class="text-gray-700 mb-4 text-center">
         Программист, компьютерных дел мастер: Зыков Тимофей<br />
         Гейм-дизайнер: Шешин Никита<br />
-        Автор идеи, дизайнер: Прокопчик Тимофей<br />
+        Дизайнер: Прокопчик Тимофей<br />
       </p>
       <img src="../assets/icons/5364.gif" alt="круто" class="mx-auto block" />
     </div>
