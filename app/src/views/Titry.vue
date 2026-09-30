@@ -10,6 +10,8 @@ import XpWindow from "../components/XpWindow.vue";
         Программист, компьютерных дел мастер: Зыков Тимофей<br />
         Гейм-дизайнер: Шешин Никита<br />
         Дизайнер: Прокопчик Тимофей<br />
+
+        <br>код проекта: <a src="https://github.com/syrochki/MusicXP">https://github.com/syrochki/MusicXP<br></a>
       </p>
       <img src="../assets/icons/5364.gif" alt="круто" class="mx-auto block" />
     </div>
